@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I am a programmer who is super keen on technological innovation. 🚀
+## I am a programmer who is super keen on cutting edge tech, books and constant learning. 🚀
 
 
 ## 🌐 Socials:
