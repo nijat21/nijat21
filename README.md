@@ -10,7 +10,3 @@
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nijat21&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
